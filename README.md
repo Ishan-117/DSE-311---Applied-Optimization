@@ -22,8 +22,8 @@ We have implemented and compared the following two models:
 **Title:** A Game-Theoretic Approach for the Robust Daily Aircraft Routing Problem  
 **Authors:** Zhicheng Deng, Lavindra de Silva, Pascal Van Hentenryck  
 **Journal:** *Journal of Mathematics*, 2022  
-**DOI:** [10.1002/mma.7920]([https://doi.org/10.1002/mma.7920](https://www.researchgate.net/publication/366069310_A_Game-Theoretic_Approach_for_the_Robust_Daily_Aircraft_Routing_Problem))  
-**PDF:** [Download from Wiley]([https://onlinelibrary.wiley.com/doi/10.1002/mma.7920](https://onlinelibrary.wiley.com/doi/10.1155/2022/8806135))
+**DOI:** [10.1002/mma.7920][https://doi.org/10.1002/mma.7920](https://www.researchgate.net/publication/366069310_A_Game-Theoretic_Approach_for_the_Robust_Daily_Aircraft_Routing_Problem)  
+**PDF:** [Download from Wiley][https://onlinelibrary.wiley.com/doi/10.1002/mma.7920](https://onlinelibrary.wiley.com/doi/10.1155/2022/8806135)
 
 ## Technologies Used
 
